@@ -25,7 +25,7 @@ source("define_custom_functions.R")
 
 # Load EM algorithm for Erlang Mixtures
 #######################################
-source("ME_ML.R")
+source("erlang_mixture_em.R")
 
 # Cast data to appropriate format, cf. ANLIM L3 slide 24
 ########################################################
